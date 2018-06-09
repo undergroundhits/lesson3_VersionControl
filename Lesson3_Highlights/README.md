@@ -1,20 +1,41 @@
 # Project Name:  Lesson 3 Version Control
 
 
+
+
 ## Course Title:
 Web Application Development
 
+
+
 ## Assignment Date:  
-(Month Day, Year)
+June 1, 2018
+
+
 
 ## Student Name:  
-(First and Last Name)
+Steven Smith
+
+
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+Lesson 3 intailed the use of the GIT version control software and it use. The lesson
+detailed how to create both local and remote repositorys with the use of the get commands 
+in Cloud9 and also illustrated how to link
+the local repository to a remote repository third party service provider GITHUB 
+
+
+## Veiw Project:
+https://undergroundhits.github.io/lesson3_VersionControl/
+
+
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+
+1. I learned another use of the Cloud9 workspace, such as how it can create and transfer files to a remote repositorys.
+
+2. I learned what GIT is and why it ranks high among web developers for its fucntionality.
+
+3. I learned how to commit files threw cloud9 and GitHud or manually upload a commit in Git Hub.
+
 
